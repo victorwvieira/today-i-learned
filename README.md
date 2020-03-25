@@ -1,5 +1,5 @@
 #### ✅ Today I learned...
 
->>> #### React
+#### React
 - **Hooks**
     - [X] [useEffect]()
