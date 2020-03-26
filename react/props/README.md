@@ -1,6 +1,7 @@
 ## React - Props
 
-### [destructuring props](https://reactjs.org/docs/hooks-effect.html)
+### destructuring props 
+<br/>
 
 ###### Examples
 
