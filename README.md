@@ -12,5 +12,5 @@
 <br/>
 
 ### Cloud
-- **Deploy Applications React**
+- **Deploy React Applications on Cloud**
     - [X] [Netlify](https://www.netlify.com/)
