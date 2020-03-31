@@ -3,7 +3,7 @@
 <br/>
 
 ### JavaScript
-- **[Array]()**
+- **[Array](https://github.com/waisbek/today-i-learned/tree/feature/javascript/javascript)**
     - [X] array.reverse()
 
 <br/>

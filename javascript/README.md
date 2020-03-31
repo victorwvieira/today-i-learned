@@ -1,22 +1,13 @@
-#### ✅ TIL - Today I learned...
+## JavaScript - Array
+### [array.reverse()](https://github.com/waisbek/today-i-learned/blob/feature/javascript/javascript/array.js)
 
-<br/>
+###### Examples
 
-### JavaScript
-- **[Array]()**
-    - [X] array.reverse()
+* ##### Create a variable that receive an array of numbers and use console.log() to show the content. Create another variable that receive the first variable changing the order os the numbers using the method reverse().
+```
+const myArray = [0, 1, 2, 3, 4]
+console.log('initial array: ', myArray);
 
-<br/>
-
-### React
-- **Hooks**
-    - [X] [useEffect](https://github.com/waisbek/til/tree/feature/react/react/hook-use-effect)
-
-- **Props**
-    - [X] [destructuring props](https://github.com/waisbek/today-i-learned/tree/feature/react/react/props)
-
-<br/>
-
-### Cloud
-- **Deploy React Applications on Cloud**
-    - [X] [Netlify](https://www.netlify.com/)
+const reverseArray = myArray.reverse()
+console.log('reverse array: ', reverseArray);
+```
