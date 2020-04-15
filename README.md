@@ -12,6 +12,7 @@
 ### React
 - **Hooks**
     - [X] [useEffect](https://github.com/waisbek/til/tree/feature/react/react/hook-use-effect)
+    - [X] [customHook](https://github.com/waisbek/today-i-learned/tree/feature/react/react/hook-custom)
 
 - **Props**
     - [X] [destructuring props](https://github.com/waisbek/today-i-learned/tree/feature/react/react/props)
