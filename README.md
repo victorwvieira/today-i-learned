@@ -5,6 +5,7 @@
 ### JavaScript
 - **[Array](https://github.com/waisbek/today-i-learned/tree/feature/javascript/javascript)**
     - [X] array.reverse()
+    - [X] Spread Operator
 
 <br/>
 
