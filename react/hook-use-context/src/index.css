@@ -1,0 +1,11 @@
+.theme {
+  text-align: center;
+}
+
+.theme.blue {
+  background-color: lightblue;
+}
+
+.theme.red {
+  background-color: lightcoral;
+}
